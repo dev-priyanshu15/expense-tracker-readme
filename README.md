@@ -30,6 +30,8 @@ A modern, scalable expense tracking application built with microservices archite
 
 ## 🏗️ **HLD (High-Level Design) Architecture**
 
+![HLD Architecture](3106042f-3d8c-425e-9f32-78430fc7f8b6.png)
+
 ### System Architecture Flow
 ```
 CLIENT 
